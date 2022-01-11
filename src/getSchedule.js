@@ -1,4 +1,5 @@
-//  Ref.: Rafael França
+// Ref.: Rafael França
+// Ref.: Eduardo Souza
 
 const { hours, species } = require('../data/zoo_data');
 
