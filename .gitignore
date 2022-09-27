@@ -4,3 +4,5 @@
 .vscode
 node_modules/
 practicing/
+publisher.sh
+trybe-filter-repo.sh
